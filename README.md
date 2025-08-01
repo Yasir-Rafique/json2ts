@@ -27,7 +27,7 @@
 
 |    Convert JSON to TypeScript instantly!     |
 | :------------------------------------------: |
-| ![Screenshot of JSON2TS UI](screenshot1.png) |
+| ![Screenshot of JSON2TS UI](Screenshot1.png) |
 
 ---
 
